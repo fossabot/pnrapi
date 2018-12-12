@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaipradeesh%2Fpnrapi.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaipradeesh%2Fpnrapi?ref=badge_shield)
+
 PNR API
 ======
 
@@ -71,3 +73,7 @@ It returns a dummy response.
 ## Issues ##
 
 Please feel free to file bugs/feature requests. Better still, fork it and get your hands dirty. :)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaipradeesh%2Fpnrapi.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaipradeesh%2Fpnrapi?ref=badge_large)
